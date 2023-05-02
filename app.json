@@ -1,0 +1,5 @@
+{
+  "name": "deeptask",
+  "displayName": "deeptask",
+  "plugins": ["@react-native-google-signin/google-signin"]
+}

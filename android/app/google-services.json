@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644269947005",
+    "project_id": "logintask-517d7",
+    "storage_bucket": "logintask-517d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644269947005:android:fc4f0fb9760fa88e67d914",
+        "android_client_info": {
+          "package_name": "com.deeptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644269947005-sv7ikfl8pgdufhaf3p06rpb43prbnler.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deeptask",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "644269947005-44lckb6manqas0is2qte0jm9pfepkd4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWemVIBPh9lA-Bn9y3xIXhuoyF0eNZ-OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644269947005-44lckb6manqas0is2qte0jm9pfepkd4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
